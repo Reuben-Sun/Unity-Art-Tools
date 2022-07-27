@@ -1,0 +1,18 @@
+{
+    "name": "com.reuben.art-tools.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:075ec3ae4f0646348ba280fb61107886"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
