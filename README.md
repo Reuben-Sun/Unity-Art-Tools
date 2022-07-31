@@ -1,5 +1,9 @@
 # Unity Art Tools
 
+### 功能特色
+
+[Readme](https://github.com/Reuben-Sun/Unity-Art-Tools/blob/main/DCCStudy/Packages/com.reuben.art-tools/README.md#reuebn-art-tools)
+
 ### 安装指南
 
 打开Unity Package Manager，输入
@@ -27,11 +31,13 @@ git tag 1.0.x upm
 git push origin upm --tags
 ```
 
+#### 其他教程
+
+[Unity Package 开发入门](https://www.jianshu.com/p/153841d65846)
+
 ### 参考引用
 
 本项目仅用于学习交流，不会进行任何商业用途
 
 - Odin
-
-### 功能特色
 
