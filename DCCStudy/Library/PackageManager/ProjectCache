@@ -23,8 +23,8 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637945231520994220
-      m_Hash: 484002944
+        ticks: 637948776931710548
+      m_Hash: 2979069073
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Code/Unity Art Tools/DCCStudy/Packages
@@ -2671,7 +2671,7 @@ m_ResolvedPackages:
 - packageId: com.reuben.art-tools@file:C:\Code\Unity Art Tools\DCCStudy\Packages\com.reuben.art-tools
   testable: 1
   isDirectDependency: 1
-  version: 1.0.0
+  version: 1.0.1
   source: 3
   resolvedPath: C:\Code\Unity Art Tools\DCCStudy\Packages\com.reuben.art-tools
   assetPath: Packages/com.reuben.art-tools

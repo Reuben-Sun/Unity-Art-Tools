@@ -8,10 +8,16 @@ namespace Reuben.ArtTools.Editor
     public class AnimationClipTool
     {
         [Title("Animation Tool")]
-        [Button("test")]
+        [Button("Test")]
         void TestUse()
         {
             Debug.Log("Test!");
+        }
+
+        [Button("Hello")]
+        void PrintHello()
+        {
+            Debug.Log("Hello world");
         }
     }
 }
